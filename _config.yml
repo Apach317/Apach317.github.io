@@ -1,11 +1,11 @@
 # Site settings
 author: Ron Lynch
-title: 
+title: Tech Overload
 header-img: img/home-bg.png
 email: lynch.ronald1@gmail.com
 copyright_name: Ron Lynch
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Trying to simplify the static
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: Apach317
 github_username:  Apach317
